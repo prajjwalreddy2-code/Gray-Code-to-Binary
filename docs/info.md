@@ -6,7 +6,6 @@ sections.
 You can also include images in this folder and reference them in the markdown. Each image must be less than
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
-
 ## How it works
 
 This project converts a Gray Code input into its equivalent Binary Code output using XOR gates. The most significant bit (MSB) of the binary output equals the Gray Code MSB, and each subsequent binary bit is obtained by XORing the previous binary bit with the next Gray Code bit.
