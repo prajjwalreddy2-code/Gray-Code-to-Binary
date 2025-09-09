@@ -20,6 +20,10 @@ pinout:
   ui[1]: "IN1"
   ui[2]: "IN2"
   ui[3]: "IN3"
+  ui[4]: ""
+  ui[5]: ""
+  ui[6]: ""
+  ui[7]: ""
  
 
   # Outputs
